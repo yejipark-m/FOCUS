@@ -6,8 +6,8 @@
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-g.svg" />
   </a>
-  <a href="https://arxiv.org/abs/2508.xxxxx">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.xxxxx-b31b1b.svg" />
+  <a href="https://arxiv.org/abs/2508.13744">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.13744-b31b1b.svg" />
   </a>
 </p>
 
@@ -16,8 +16,7 @@
 
 <blockquote>
   <p>
-    <strong>Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks</strong>
-    <em>(arXiv link coming soon)</em><br/>
+    <strong>Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks</strong><br/>
     <a href="https://yejipark-m.github.io">Yeji Park</a><sup>1</sup>,
     <a href="https://sites.google.com/view/minyoung-lee">Minyoung Lee</a><sup>1</sup>,
     <a href="https://sanghyukchun.github.io/home/">Sanghyuk Chun</a><sup>2</sup><sup>*</sup>,
@@ -28,9 +27,10 @@
   </p>
 </blockquote>
 
-<h2>News</h2>
+<h2>Updates</h2>
 <ul>
-  <li><strong>2025.08.19</strong> – Open the repo. Code is under review.</li>
+  <li><strong>20.08.2025</strong> – Preprint has been uploaded.</li>
+  <li><strong>19.08.2025</strong> – Open the repo. Code is under review.</li>
 </ul>
 
 <h2>License</h2>
